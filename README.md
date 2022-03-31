@@ -13,43 +13,43 @@ CitiBike is a long-standing program in New York City, but analysts are looking a
 
 In August 2019, there were 146,752 bikes that were registered checked out at the 5 minute duration mark.  This represents the highest usage peak.  Looking more at longevity stats, there were 33 bikes that were checked out for 2 hours, 59 minutes or potentially longer.
 
-![](Resources/Checkout_Times_For_Users.png
+![](Resources/Checkout_Times_For_Users.png)
 
 ### Checkout Times by Gender
 
 When looking at bike usage by gender, males came in much higher than female, at close to 110k male users at the peak usage time, compared to ~34k female users at the peak.  There was also some unkonwn gender data within the CitiBike data.
 
-![](Resources/Checkout_Times_By_Gender.png
+![](Resources/Checkout_Times_By_Gender.png)
 
 ### Trips by Weekday
 
 Citibike usage was at the lowest between 12am-5am on all days of the week, while the most popular trip period was around 5pm-6pm on Monday, Tuesday and Thursday.
 
-![](Resources/Trips_By_Weekday.png
+![](Resources/Trips_By_Weekday.png)
 
 ### Trips by Gender (Weekday per Hour)
 
 When looking at both female and male, both genders utilize CitiBike the most from 5pm-6om on Monday, Tuesday and Thursday, in addition to 8am on just weekday mornings.
 
-![](Resources/Trips_By_Gender_Weekday.png
+![](Resources/Trips_By_Gender_Weekday.png)
 
 ### User Trips by Gender by Weekday
 
 For customers, weekends tend to be a bit more popular than weekdays, while for subscribers weekdays tend to be more popular than weekends, with Thursday being the most popular day of the week, predominantly being male subscribers on those days.
 
-![](Resources/Trips_By_Gender_Subscription.png
+![](Resources/Trips_By_Gender_Subscription.png)
 
 ### Top Starting Locations
 
 The most popular starting locations for CitiBike users were Grand Central Station, Union Square/Union Square Station and Washington Market Park/Rockefeller Park Water Ferry Terminal.  From first glance, it appears the type of destination that a CitiBike user was checking a bike out was a transportation hub.
 
-![](Resources/Top_Starting_Locations.png
+![](Resources/Top_Starting_Locations.png)
 
 ### Top Ending Locations
 
 Interestingly enough, CitiBike users destinations were the same as the top starting locations: Grand Central Station, Union Square/Union Square Station and Washington Market Park/Rockefeller Park Water Ferry Terminal.  Again, similar to the above, CitiBike users were taking the bikes to destinations that appear to be a transportation hub.
 
-![](Resources/Top_Ending_Locations.png
+![](Resources/Top_Ending_Locations.png)
 
 ## Summary
 
