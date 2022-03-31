@@ -2,6 +2,8 @@
 
 ## Overview
 
+CitiBike is a long-standing program in New York City, but analysts are looking at the possibility of rolling out this program to other cities, specifically Des Moines, IA.  The data shown here in particular is for August 2019 usage, and many trends were presented, specifically the checkout time for users, checkout times by gender, trips by day of week, trips by gender (shown broken down by hour), user trips by gender and day of week for both customers and subscribers, and then finally the most popular starting and ending locations.  Through this data, we look to draw conclusions on how to best implement CitiBike deployment to Des Moines, IA, in addition to some extra recommendations on what to research further.
+
 ## Results
 
 ### Link to Tableau Dashboard
@@ -26,6 +28,14 @@ When looking at both female and male, both genders utilize CitiBike the most fro
 ### User Trips by Gender by Weekday
 
 For customers, weekends tend to be a bit more popular than weekdays, while for subscribers weekdays tend to be more popular than weekends, with Thursday being the most popular day of the week, predominantly being male subscribers on those days.
+
+### Top Starting Locations
+
+The most popular starting locations for CitiBike users was Pershing Square, Broadway and the Tribeca Bridge.
+
+### Top Ending Locations
+
+Interestingly enough, CitiBike users destinations were the same as the top starting locations: Pershing Square, Broadway and the Tribeca Bridge.
 
 ## Summary
 
