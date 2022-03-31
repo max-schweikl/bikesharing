@@ -7,7 +7,7 @@ CitiBike is a long-standing program in New York City, but analysts are looking a
 ## Results
 
 ### Link to Tableau Dashboard
-[NYC CitiBike Challenge](https://public.tableau.com/app/profile/max.schweikl/viz/NYC_CitiBike_Challenge_16486689002250/CheckoutTimesforUsers)
+[NYC CitiBike Challenge](https://public.tableau.com/app/profile/max.schweikl/viz/NYC_CitiBike_Analysis_16487510925200/NYCCitibikeStory)
 
 ### Checkout Times for Users
 
