@@ -37,7 +37,7 @@ When looking at both female and male, both genders utilize CitiBike the most fro
 
 For customers, weekends tend to be a bit more popular than weekdays, while for subscribers weekdays tend to be more popular than weekends, with Thursday being the most popular day of the week, predominantly being male subscribers on those days.
 
-![](Resources/Trips_By_Gender_Subscription .png)
+![](Resources/Trips_By_Gender_Subscription.png)
 
 ### Top Starting Locations
 
