@@ -29,6 +29,10 @@ For customers, weekends tend to be a bit more popular than weekdays, while for s
 
 ## Summary
 
+### High-Level Results
+
 When looking at the August 2019 data for CitiBike, there's a few major conclusions that can be drawn: 1) gender usage data shows us that the majority of users are male over female, 2) weekdays are more popular for usage versus weekends, with Thursday being the most popular day of the week, 3) early morning and early evening are the most popular usage times of day, likely aligning with the commute schedule of many NYC workers, as the trip start/end data reveals that most bikes are originating and ending in the same locations.
+
+### Future Visualization Recommendations
 
 When looking at introducing CitiBike to Des Moines, there's a few factors that should be considered.  The first is the vast population differences between the two cities - what is the ideal bike per capita needed to ensure there's not too few or too many bikes in supply for Des Moines.  We should also look at weather patterns for Des Moines compared to New York City.  This data was looking at the month of August in this analysis, but what is December climate in New York compared to Iowa - can we expect usage rates to be similar if the weather patterns are starkly similar or different?  One last thing to consider is the ease of access for bike-friendly roads or lanes in each city.  Does Des Moines have more or less of what is considered "bike-friendly" access routes than New York?  What about origins and destinations that will be most popular?  Do we expect average ride length to be shorter or longer when looking at how spread out popular attractions or places of work to home are in Des Moines compared to New York City?
